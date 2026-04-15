@@ -2,18 +2,7 @@
 
 A RESTful API backend for a workout tracking application used by personal trainers. Built with **Flask**, **SQLAlchemy**, and **Marshmallow**.
 
----
 
-## Features
-
-- Track **Workouts** and **Exercises** with a many-to-many relationship
-- Record per-exercise **reps, sets, and duration** on each workout
-- Full **CRUD** support for workouts and exercises
-- **Model-level**, **schema-level**, and **database constraint** validations
-- Database migrations via **Flask-Migrate**
-- Sample data via a seed script
-
----
 
 ## Tech Stack
 
