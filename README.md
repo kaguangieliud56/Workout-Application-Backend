@@ -3,21 +3,6 @@
 A RESTful API backend for a workout tracking application used by personal trainers. Built with **Flask**, **SQLAlchemy**, and **Marshmallow**.
 
 
-
-## Tech Stack
-
-| Tool | Version |
-|---|---|
-| Python | 3.8.13+ |
-| Flask | 2.2.2 |
-| Flask-SQLAlchemy | 3.0.3 |
-| Flask-Migrate | 3.1.0 |
-| Marshmallow | 3.20.1 |
-| Werkzeug | 2.2.2 |
-| SQLite | (bundled) |
-
----
-
 ## Installation
 
 ### 1. Clone the repository
